@@ -2,6 +2,18 @@
 
 A local website for the mini project **Traffic Volume Prediction Using Linear Regression**. Explore historical traffic, enter weather and calendar conditions, and compare a trained multiple Linear Regression model with a simple baseline.
 
+## Screenshots
+
+Click any screenshot to view it at full size.
+
+| Traffic dashboard | Traffic prediction |
+| --- | --- |
+| [![Dashboard with hourly traffic patterns and dataset statistics](artifacts/previews/dashboard-desktop.jpg)](artifacts/previews/dashboard-desktop.jpg) | [![Prediction form with an estimated hourly vehicle count](artifacts/previews/prediction-desktop.jpg)](artifacts/previews/prediction-desktop.jpg) |
+
+| Model performance | CSV datasets |
+| --- | --- |
+| [![Model metrics, actual-versus-predicted charts, and baseline comparison](artifacts/previews/performance-desktop.jpg)](artifacts/previews/performance-desktop.jpg) | [![CSV upload, supported columns, and saved dataset selection](artifacts/previews/datasets-desktop.jpg)](artifacts/previews/datasets-desktop.jpg) |
+
 ## Run on Windows
 
 Use **Python 3.13**. In PowerShell, open this project folder.
